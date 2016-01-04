@@ -1,5 +1,11 @@
-# Eclipse files
-.metadata
+# Bin folder
+bin
+
+# Ignore Eclipse files
+.project
+.settings
+.classpath
+.cache-main
 
 *.class
 *.log
