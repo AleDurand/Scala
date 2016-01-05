@@ -6,12 +6,14 @@ bin
 .settings
 .classpath
 .cache-main
+.cache-tests
 
 *.class
 *.log
 
 # sbt specific
 .cache
+
 .history
 .lib/
 dist/*
